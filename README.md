@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvelynSherlyn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelynSherlyn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EvelynSherlyn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelynSherlyn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">🍋 || LANGUAGES:</h3>
+<h3 align="center">🍋 || LANGUAGES:</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">🍨 || TOOLS:</h3>
+<h3 align="center">🍨 || TOOLS:</h3>
 
 ###
 
