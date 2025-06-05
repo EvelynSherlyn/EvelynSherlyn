@@ -19,14 +19,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.ibb.co/j9R0Wmp2/Justice.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <p align="center">╭━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━╮</p>
 
 ###
@@ -86,3 +78,11 @@
 <p align="center">ᴺᴼᵂ ᴾᴸᴬᵞᴵᴺᴳ : Ábranse p*rras - Gloria Trevi</p>
 
 ###
+
+<div align="center">
+  <img height="150" src="https://i.ibb.co/j9R0Wmp2/Justice.gif"  />
+</div>
+
+###
+
+<br clear="both">
